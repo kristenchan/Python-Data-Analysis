@@ -28,49 +28,49 @@
       <td align="center" valign="center">作業解答</td>
 　</tr>
 　<tr>
-　    <td align="center" valign="center">Class 1 (3/17)</td>
+　    <td valign="center">Class 1 (3/17)</td>
 　    <td align="center" valign="center"></td>
       <td align="center" valign="center"></td>
       <td align="center" valign="center"></td>
 　</tr>
   <tr>
-　    <td align="center" valign="center">Class 2 (3/24)</td>
+　    <td valign="center">Class 2 (3/24)</td>
 　    <td align="center" valign="center"></td>
       <td align="center" valign="center"></td>
       <td align="center" valign="center"></td>
 　</tr>
  <tr>
-　    <td align="center" valign="center">Class 3 (4/7)</td>
+　    <td valign="center">Class 3 (4/7)</td>
 　    <td align="center" valign="center"></td>
       <td align="center" valign="center"></td>
       <td align="center" valign="center"></td>
 　</tr>
  <tr>
-　    <td align="center" valign="center">Class 4 (4/28)</td>
+　    <td valign="center">Class 4 (4/28)</td>
 　    <td align="center" valign="center"></td>
       <td align="center" valign="center"></td>
       <td align="center" valign="center"></td>
 　</tr>
  <tr>
-　    <td align="center" valign="center">Class 5 (5/5)</td>
+　    <td valign="center">Class 5 (5/5)</td>
 　    <td align="center" valign="center"></td>
       <td align="center" valign="center"></td>
       <td align="center" valign="center"></td>
 　</tr>
  <tr>
-　    <td align="center" valign="center">Class 6 (5/12)</td>
+　    <td valign="center">Class 6 (5/12)</td>
 　    <td align="center" valign="center"></td>
       <td align="center" valign="center"></td>
       <td align="center" valign="center"></td>
 　</tr>
  <tr>
-　    <td align="center" valign="center">Class 7 (5/19)</td>
+　    <td valign="center">Class 7 (5/19)</td>
 　    <td align="center" valign="center"></td>
       <td align="center" valign="center"></td>
       <td align="center" valign="center"></td>
 　</tr>
  <tr>
-　    <td align="center" valign="center">Class 8 (6/2)</td>
+　    <td valign="center">Class 8 (6/2)</td>
 　    <td align="center" valign="center"></td>
       <td align="center" valign="center"></td>
       <td align="center" valign="center"></td>
