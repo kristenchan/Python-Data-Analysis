@@ -1,6 +1,5 @@
 <h2> Data Analysis X Python </h2>
-![image](https://t.kfs.io/organization_resource_files/7685/10758/14063888_1080321025394014_825596358231805577_n.png)
-
+<a href=https://www.facebook.com/dlab.taiwan/?fref=t> DATA LAB 資料實驗室 </a>
 <p>
     <b>Mission</b><br>
         R-ladies Taipei是以女性為優先的R 語言學習社群。
