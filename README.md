@@ -1,5 +1,5 @@
 <h2> Data Analysis X Python </h2>
-![Image](https://scontent-tpe1-1.xx.fbcdn.net/v/t1.0-9/14720550_1136462346446548_3432730253821874085_n.jpg?oh=42e0b92e371d366d554815982a48adcc&oe=5958F59C)
+![image](https://t.kfs.io/organization_resource_files/7685/10758/14063888_1080321025394014_825596358231805577_n.png)
 
 <p>
     <b>Mission</b><br>
