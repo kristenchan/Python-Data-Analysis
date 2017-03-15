@@ -22,58 +22,58 @@
     <h3><b>課程講義</b></h3>
 <table>
 　<tr>
-　    <td>日    期</td>
-　    <td>講    義</td>
-      <td>課堂範例</td>
-      <td>作業解答</td>
+　    <td align="center" valign="center">日  期</td>
+　    <td align="center" valign="center">講  義</td>
+      <td align="center" valign="center">課堂範例</td>
+      <td align="center" valign="center">作業解答</td>
 　</tr>
 　<tr>
-　    <td>Class 1 (3/17)</td>
-　    <td></td>
-      <td></td>
-      <td></td>
+　    <td align="center" valign="center">Class 1 (3/17)</td>
+　    <td align="center" valign="center"></td>
+      <td align="center" valign="center"></td>
+      <td align="center" valign="center"></td>
 　</tr>
   <tr>
-　    <td>Class 2 (3/24)</td>
-　    <td></td>
-      <td></td>
-      <td></td>
+　    <td align="center" valign="center">Class 2 (3/24)</td>
+　    <td align="center" valign="center"></td>
+      <td align="center" valign="center"></td>
+      <td align="center" valign="center"></td>
 　</tr>
  <tr>
-　    <td>Class 3 (4/7)</td>
-　    <td></td>
-      <td></td>
-      <td></td>
+　    <td align="center" valign="center">Class 3 (4/7)</td>
+　    <td align="center" valign="center"></td>
+      <td align="center" valign="center"></td>
+      <td align="center" valign="center"></td>
 　</tr>
  <tr>
-　    <td>Class 4 (4/28)</td>
-　    <td></td>
-      <td></td>
-      <td></td>
+　    <td align="center" valign="center">Class 4 (4/28)</td>
+　    <td align="center" valign="center"></td>
+      <td align="center" valign="center"></td>
+      <td align="center" valign="center"></td>
 　</tr>
  <tr>
-　    <td>Class 5 (5/5)</td>
-　    <td></td>
-      <td></td>
-      <td></td>
+　    <td align="center" valign="center">Class 5 (5/5)</td>
+　    <td align="center" valign="center"></td>
+      <td align="center" valign="center"></td>
+      <td align="center" valign="center"></td>
 　</tr>
  <tr>
-　    <td>Class 6 (5/12)</td>
-　    <td></td>
-      <td></td>
-      <td></td>
+　    <td align="center" valign="center">Class 6 (5/12)</td>
+　    <td align="center" valign="center"></td>
+      <td align="center" valign="center"></td>
+      <td align="center" valign="center"></td>
 　</tr>
  <tr>
-　    <td>Class 7 (5/19)</td>
-　    <td></td>
-      <td></td>
-      <td></td>
+　    <td align="center" valign="center">Class 7 (5/19)</td>
+　    <td align="center" valign="center"></td>
+      <td align="center" valign="center"></td>
+      <td align="center" valign="center"></td>
 　</tr>
  <tr>
-　    <td>Class 8 (6/2)</td>
-　    <td></td>
-      <td></td>
-      <td></td>
+　    <td align="center" valign="center">Class 8 (6/2)</td>
+　    <td align="center" valign="center"></td>
+      <td align="center" valign="center"></td>
+      <td align="center" valign="center"></td>
 　</tr>
 </table>
 </p>
