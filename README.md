@@ -29,7 +29,7 @@
 　</tr>
 　<tr>
 　    <td valign="center">Class 1 (3/17)</td>
-　    <td align="center" valign="center"></td>
+　    <td align="center" valign="center"><a href=""><img src=https://image.flaticon.com/icons/svg/337/337946.svg></a></td>
       <td align="center" valign="center"></td>
       <td align="center" valign="center"></td>
 　</tr>
