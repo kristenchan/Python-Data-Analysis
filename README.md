@@ -31,7 +31,7 @@
 　    <td valign="center">Class 1 (3/17)</td>
 　    <td align="center" valign="center">
          <a href="https://github.com/kristenchan/Python-Data-Analysis/blob/master/Class_1.pdf">
-            <img src="https://image.flaticon.com/icons/svg/337/337946.svg">
+            <img src="https://image.flaticon.com/icons/svg/337/337946.svg" height="50" width="50">
          </a>
       </td>
       <td align="center" valign="center"></td>
