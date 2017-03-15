@@ -1,7 +1,7 @@
 <h2> Data Analysis X Python </h2> 
 <img src="https://t.kfs.io/organization_resource_files/7685/10758/14063888_1080321025394014_825596358231805577_n.png" alt="DataLab" height="130" width="130">
 <a href=https://www.facebook.com/dlab.taiwan/?fref=t> DATA LAB 資料實驗室 </a>所開設的 Python 資料分析課程
-<br><br>
+<br>
 <p>
     <h3><b>課程資訊</b></h3>
     <ul class="task-list">
