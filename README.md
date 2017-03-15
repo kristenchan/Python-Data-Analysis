@@ -1,9 +1,9 @@
 <h2> Data Analysis X Python </h2> 
 <img src="https://t.kfs.io/organization_resource_files/7685/10758/14063888_1080321025394014_825596358231805577_n.png" alt="DataLab" height="130" width="130">
 <a href=https://www.facebook.com/dlab.taiwan/?fref=t> DATA LAB 資料實驗室 </a>所開設的 Python 資料分析課程
-<br>
+<br><br>
 <p>
-    <b>課程資訊</b>
+    <h3><b>課程資訊</b></h3>
     <ul class="task-list">
        <li>地點 : 資策會 教研所 (信義路3段153號3樓) </li>
        <li>時間 : 每週五晚上 7:00~9:00 (共計 16小時、8堂課) </li>
@@ -19,7 +19,7 @@
 </p>  
 <hr size="1">
 <p>
-    <b>課程講義</b>
+    <h3><b>課程講義</b></h3>
 <table>
 　<tr>
 　    <td>日    期</td>
