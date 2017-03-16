@@ -23,10 +23,10 @@
     
 <center><table>
 　<tr>
-　    <td align="center" valign="middle">日  期</td>
-　    <td align="center" valign="middle">講  義</td>
-      <td align="center" valign="middle">課堂範例</td>
-      <td align="center" valign="middle">作業解答</td>
+　    <td align="middle" valign="middle">日  期</td>
+　    <td align="middle" valign="middle">講  義</td>
+      <td align="middle" valign="middle">課堂範例</td>
+      <td align="middle" valign="middle">作業解答</td>
 　</tr>
 　<tr>
 　    <td align="right" valign="middle">Class 1 (3/17)</td>
