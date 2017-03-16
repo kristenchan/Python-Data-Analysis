@@ -29,7 +29,7 @@
       <td align="center" valign="middle">作業解答</td>
 　</tr>
 　<tr>
-　    <td valign="middle">Class 1 (3/17)</td>
+　    <td align="right" valign="middle">Class 1 (3/17)</td>
 　    <td align="center" valign="middle">
          <a href="https://github.com/kristenchan/Python-Data-Analysis/blob/master/Class_1.pdf">
             <img src="https://image.flaticon.com/icons/svg/337/337946.svg" height="35" width="35">
@@ -39,43 +39,43 @@
       <td align="center" valign="middle"></td>
 　</tr>
   <tr>
-　    <td valign="middle">Class 2 (3/24)</td>
+　    <td align="right" valign="middle">Class 2 (3/24)</td>
 　    <td align="center" valign="middle"></td>
       <td align="center" valign="middle"></td>
       <td align="center" valign="middle"></td>
 　</tr>
  <tr>
-　    <td valign="middle">Class 3 (4/7)</td>
+　    <td align="right" valign="middle">Class 3 (4/7)</td>
 　    <td align="center" valign="middle"></td>
       <td align="center" valign="middle"></td>
       <td align="center" valign="middle"></td>
 　</tr>
  <tr>
-　    <td valign="middle">Class 4 (4/28)</td>
+　    <td align="right" valign="middle">Class 4 (4/28)</td>
 　    <td align="center" valign="middle"></td>
       <td align="center" valign="middle"></td>
       <td align="center" valign="middle"></td>
 　</tr>
  <tr>
-　    <td valign="middle">Class 5 (5/5)</td>
+　    <td align="right" valign="middle">Class 5 (5/5)</td>
 　    <td align="center" valign="middle"></td>
       <td align="center" valign="middle"></td>
       <td align="center" valign="middle"></td>
 　</tr>
  <tr>
-　    <td valign="middle">Class 6 (5/12)</td>
+　    <td align="right" valign="middle">Class 6 (5/12)</td>
 　    <td align="center" valign="middle"></td>
       <td align="center" valign="middle"></td>
       <td align="center" valign="middle"></td>
 　</tr>
  <tr>
-　    <td valign="middle">Class 7 (5/19)</td>
+　    <td align="right" valign="middle">Class 7 (5/19)</td>
 　    <td align="center" valign="middle"></td>
       <td align="center" valign="middle"></td>
       <td align="center" valign="middle"></td>
 　</tr>
  <tr>
-　    <td valign="middle">Class 8 (6/2)</td>
+　    <td align="right" valign="middle">Class 8 (6/2)</td>
 　    <td align="center" valign="middle"></td>
       <td align="center" valign="middle"></td>
       <td align="center" valign="middle"></td>
