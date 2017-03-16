@@ -20,7 +20,8 @@
 <hr size="1">
 <p>
     <h3><b>課程講義</b></h3>
-<table>
+    
+<center><table>
 　<tr>
 　    <td align="center" valign="center">日  期</td>
 　    <td align="center" valign="center">講  義</td>
@@ -79,5 +80,5 @@
       <td align="center" valign="center"></td>
       <td align="center" valign="center"></td>
 　</tr>
-</table>
+</table></center>
 </p>
