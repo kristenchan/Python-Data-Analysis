@@ -35,50 +35,50 @@
             <img src="https://image.flaticon.com/icons/svg/337/337946.svg" height="35" width="35">
          </a>
       </td>
-      <td align="center" valign="center"></td>
-      <td align="center" valign="center"></td>
+      <td align="center" valign="center">&nbsp;</td>
+      <td align="center" valign="center">&nbsp;</td>
 　</tr>
   <tr>
 　    <td align="right" valign="center">Class 2 (3/24)</td>
-　    <td align="center" valign="center"></td>
-      <td align="center" valign="center"></td>
-      <td align="center" valign="center"></td>
+　    <td align="center" valign="center">&nbsp;</td>
+      <td align="center" valign="center">&nbsp;</td>
+      <td align="center" valign="center">&nbsp;</td>
 　</tr>
  <tr>
 　    <td align="right" valign="center">Class 3 (4/7)</td>
-　    <td align="center" valign="center"></td>
-      <td align="center" valign="center"></td>
-      <td align="center" valign="center"></td>
+　    <td align="center" valign="center">&nbsp;</td>
+      <td align="center" valign="center">&nbsp;</td>
+      <td align="center" valign="center">&nbsp;</td>
 　</tr>
  <tr>
 　    <td align="right" valign="center">Class 4 (4/28)</td>
-　    <td align="center" valign="center"></td>
-      <td align="center" valign="center"></td>
-      <td align="center" valign="center"></td>
+　    <td align="center" valign="center">&nbsp;</td>
+      <td align="center" valign="center">&nbsp;</td>
+      <td align="center" valign="center">&nbsp;</td>
 　</tr>
  <tr>
 　    <td align="right" valign="center">Class 5 (5/5)</td>
-　    <td align="center" valign="center"></td>
-      <td align="center" valign="center"></td>
-      <td align="center" valign="center"></td>
+　    <td align="center" valign="center">&nbsp;</td>
+      <td align="center" valign="center">&nbsp;</td>
+      <td align="center" valign="center">&nbsp;</td>
 　</tr>
  <tr>
 　    <td align="right" valign="center">Class 6 (5/12)</td>
-　    <td align="center" valign="center"></td>
-      <td align="center" valign="center"></td>
-      <td align="center" valign="center"></td>
+　    <td align="center" valign="center">&nbsp;</td>
+      <td align="center" valign="center">&nbsp;</td>
+      <td align="center" valign="center">&nbsp;</td>
 　</tr>
  <tr>
 　    <td align="right" valign="center">Class 7 (5/19)</td>
-　    <td align="center" valign="center"></td>
-      <td align="center" valign="center"></td>
-      <td align="center" valign="center"></td>
+　    <td align="center" valign="center">&nbsp;</td>
+      <td align="center" valign="center">&nbsp;</td>
+      <td align="center" valign="center">&nbsp;</td>
 　</tr>
  <tr>
 　    <td align="right" valign="center">Class 8 (6/2)</td>
-　    <td align="center" valign="center"></td>
-      <td align="center" valign="center"></td>
-      <td align="center" valign="center"></td>
+　    <td align="center" valign="center">&nbsp;</td>
+      <td align="center" valign="center">&nbsp;</td>
+      <td align="center" valign="center">&nbsp;</td>
 　</tr>
 </table></center>
 </p>
