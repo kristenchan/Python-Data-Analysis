@@ -35,7 +35,11 @@
             <img src="https://image.flaticon.com/icons/svg/337/337946.svg" height="35" width="35">
          </a>
       </td>
-      <td align="center" valign="center">&nbsp;</td>
+      <td align="center" valign="center">
+         <a href="https://github.com/kristenchan/Python-Data-Analysis/blob/master/Class_1.ipynb">
+           <img src="https://image.flaticon.com/icons/svg/180/180867.svg" height="35" width="35">
+         </a>
+      </td>
       <td align="center" valign="center">&nbsp;</td>
 　</tr>
   <tr>
