@@ -31,7 +31,7 @@
 　<tr>
 　    <td align="right" valign="center">Class 1 (3/17)</td>
 　    <td align="center" valign="center">
-         <a href="https://github.com/kristenchan/Python-Data-Analysis/blob/master/Class_1.pdf">
+         <a href="https://drive.google.com/file/d/0B05En15qeUozSGpuN0RjOWNTX3M/view?usp=sharing">
             <img src="https://image.flaticon.com/icons/svg/337/337946.svg" height="35" width="35">
          </a>
       </td>
