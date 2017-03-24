@@ -34,10 +34,9 @@
             <img src="https://image.flaticon.com/icons/svg/337/337946.svg" height="35" width="35">
           </a></center>
       </td>
-      <td align="center" valign="center">
-          <a href="https://github.com/kristenchan/Python-Data-Analysis/blob/master/Class_1.ipynb">
+      <td><center><a href="https://github.com/kristenchan/Python-Data-Analysis/blob/master/Class_1.ipynb">
             <img src="https://image.flaticon.com/icons/svg/180/180867.svg" height="35" width="35">
-          </a>
+          </a></center>
       </td>
       <td align="center" valign="center">&nbsp;</td>
 　</tr>
@@ -47,10 +46,9 @@
            <img src="https://image.flaticon.com/icons/svg/337/337946.svg" height="35" width="35">
           </a></center>
       </td>
-      <td align="center" valign="center">
-          <a href="https://github.com/kristenchan/Python-Data-Analysis/blob/master/Class_2.ipynb">
+      <td><center><a href="https://github.com/kristenchan/Python-Data-Analysis/blob/master/Class_2.ipynb">
             <img src="https://image.flaticon.com/icons/svg/180/180867.svg" height="35" width="35">
-          </a>      
+          </a></center>      
       </td>
       <td align="center" valign="center">作業資料在課程範例中 </td>
 　</tr>
