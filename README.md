@@ -45,12 +45,16 @@
   <tr>
 　    <td align="right" valign="center">Class 2 (3/24)</td>
 　    <td align="center" valign="center">
-          <a href="https://drive.google.com/open?id=0B05En15qeUozcmVuUGd2RnRUNGc">
+          <a href="https://drive.google.com/open?id=0B05En15qeUozSFpWNjN2RE1VODQ">
             <img src="https://image.flaticon.com/icons/svg/337/337946.svg" height="35" width="35">
          </a>
      </td>
-      <td align="center" valign="center">&nbsp;</td>
-      <td align="center" valign="center">&nbsp;</td>
+      <td align="center" valign="center">
+         <a href="https://github.com/kristenchan/Python-Data-Analysis/blob/master/Class_2.ipynb">
+           <img src="https://image.flaticon.com/icons/svg/180/180867.svg" height="35" width="35">
+         </a>      
+      </td>
+      <td align="center" valign="center"> 作業資料在課程範例中 </td>
 　</tr>
  <tr>
 　    <td align="right" valign="center">Class 3 (4/7)</td>
