@@ -30,8 +30,7 @@
 　</tr>
 　<tr>
 　    <td align="right" valign="center">Class 1 (3/17)</td>
-      <td><center>
-          <a href="https://drive.google.com/file/d/0B05En15qeUozUmk2NTloN2R0TjA/view?usp=sharing">
+      <td><center><a href="https://drive.google.com/file/d/0B05En15qeUozUmk2NTloN2R0TjA/view?usp=sharing">
             <img src="https://image.flaticon.com/icons/svg/337/337946.svg" height="35" width="35">
           </a></center>
       </td>
@@ -44,10 +43,9 @@
 　</tr>
   <tr>
 　    <td align="right" valign="center">Class 2 (3/24)</td>
-      <td align="center" valign="center">
-          <a href="https://drive.google.com/open?id=0B05En15qeUozSFpWNjN2RE1VODQ">
+      <td><center><a href="https://drive.google.com/open?id=0B05En15qeUozSFpWNjN2RE1VODQ">
            <img src="https://image.flaticon.com/icons/svg/337/337946.svg" height="35" width="35">
-          </a>
+          </a></center>
       </td>
       <td align="center" valign="center">
           <a href="https://github.com/kristenchan/Python-Data-Analysis/blob/master/Class_2.ipynb">
