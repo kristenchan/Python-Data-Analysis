@@ -54,7 +54,7 @@
            <img src="https://image.flaticon.com/icons/svg/180/180867.svg" height="35" width="35">
          </a>      
       </td>
-      <td align="center" valign="center"> 作業資料在課程範例中 </td>
+      <td align="center" valign="center">作業資料在課程範例中 </td>
 　</tr>
  <tr>
 　    <td align="right" valign="center">Class 3 (4/7)</td>
