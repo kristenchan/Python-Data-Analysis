@@ -44,7 +44,11 @@
 　</tr>
   <tr>
 　    <td align="right" valign="center">Class 2 (3/24)</td>
-　    <td align="center" valign="center">&nbsp;</td>
+　    <td align="center" valign="center">
+          <a href="https://drive.google.com/open?id=0B05En15qeUozcmVuUGd2RnRUNGc">
+            <img src="https://image.flaticon.com/icons/svg/337/337946.svg" height="35" width="35">
+         </a>
+     </td>
       <td align="center" valign="center">&nbsp;</td>
       <td align="center" valign="center">&nbsp;</td>
 　</tr>
