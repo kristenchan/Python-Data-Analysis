@@ -21,7 +21,7 @@
 <hr size="1">
 <p>
      <h3><b>課程講義</b></h3>    
-     <center><table>
+     <center><table style="table-layout:fixed">
              <tr><td valign="center"><center>日   期</center></td>
                  <td valign="center"><center>講   義</center></td>
                  <td valign="center"><center>課堂範例</center></td>
