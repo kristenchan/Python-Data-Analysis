@@ -19,6 +19,15 @@
      </ul>
 </p>  
 <hr size="1">
+<br>
+<p>
+     <h3><b>作業繳交狀況</b></h3>
+     <a href="https://docs.google.com/spreadsheets/d/1Zq9HJZI_LEQux1PGNxZnjWNkFkI1w3I7O7Vkx_gB1hM/edit#gid=0">
+          <img src="https://image.flaticon.com/icons/svg/265/265706.svg" height="35" width="35">
+     </a>
+     
+</p>
+<br>
 <p>
      <h3><b>課程講義</b></h3>    
      <center><table style="table-layout:fixed">
