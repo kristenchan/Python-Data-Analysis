@@ -71,8 +71,14 @@
              </tr>
              <tr>
                  <td align="right" valign="center">Class 4 (4/28)</td>
-                 <td align="center" valign="center">&nbsp;</td>
-                 <td align="center" valign="center">&nbsp;</td>
+                 <td><center><a href="https://drive.google.com/open?id=0B05En15qeUozV25XOHNiYWZjVEE">
+                               <img src="pdf.svg" height="35" width="35">
+                             </a>
+                     </center></td>
+                 <td><center><a href="https://github.com/kristenchan/Python-Data-Analysis/blob/master/Class_4.ipynb">
+                               <img src="py.svg" height="35" width="35">
+                             </a>
+                     </center></td>
                  <td align="center" valign="center">&nbsp;</td>
              </tr>
              <tr>
