@@ -71,7 +71,7 @@
              </tr>
              <tr>
                  <td align="right" valign="center">Class 4 (4/28)</td>
-                 <td><center><a href="https://drive.google.com/open?id=0B05En15qeUozV25XOHNiYWZjVEE">
+                 <td><center><a href="https://drive.google.com/open?id=0B05En15qeUozdmVlaWlpNm8xalU">
                                <img src="pdf.svg" height="35" width="35">
                              </a>
                      </center></td>
