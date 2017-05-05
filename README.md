@@ -114,9 +114,10 @@
      </table></center>
 </p>
 <p>
-R Ladies Taipei 網站
+<h3>R Ladies Taipei 網站</h3>
+<br>
 <a href="https://rladiestaipei.github.io/R-Ladies-Taipei/">
-    <img src="https://secure.meetupstatic.com/photos/event/7/d/8/d/global_456452141.jpeg" height="35" width="35">
+    <img src="https://secure.meetupstatic.com/photos/event/7/d/8/d/global_456452141.jpeg" height="50" width="40">
 </a>
 
 </p>
