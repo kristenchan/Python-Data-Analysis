@@ -23,7 +23,7 @@
 <p>
      <h3><b>作業繳交狀況</b></h3>
      <a href="https://docs.google.com/spreadsheets/d/1Zq9HJZI_LEQux1PGNxZnjWNkFkI1w3I7O7Vkx_gB1hM/edit#gid=0">
-          <img src="https://drive.google.com/open?id=0B05En15qeUozWnd0MWlrMkpndlU" height="35" width="35">
+          <img src="check.svg" height="35" width="35">
      </a>
      
 </p>
@@ -38,33 +38,33 @@
              </tr>
              <tr><td align="right" valign="center">Class 1 (3/17)</td>
                  <td><center><a href="https://drive.google.com/file/d/0B05En15qeUozUmk2NTloN2R0TjA/view?usp=sharing">
-                               <img src="https://drive.google.com/open?id=0B05En15qeUozVEFCdTN1MjE0cW8" height="35" width="35">
+                               <img src="pdf.svg" height="35" width="35">
                              </a>
                      </center></td>
                  <td><center><a href="https://github.com/kristenchan/Python-Data-Analysis/blob/master/Class_1.ipynb">
-                               <img src="https://drive.google.com/open?id=0B05En15qeUozTm0yMGV3LTdIcnc" height="35" width="35">
+                               <img src="py.svg" height="35" width="35">
                              </a>
                      </center></td>
                  <td>&nbsp;</td>
              </tr>
              <tr><td align="right" valign="center">Class 2 (3/24)</td>
                  <td><center><a href="https://drive.google.com/open?id=0B05En15qeUozSFpWNjN2RE1VODQ">
-                               <img src="https://drive.google.com/open?id=0B05En15qeUozVEFCdTN1MjE0cW8" height="35" width="35">
+                               <img src="pdf.svg" height="35" width="35">
                              </a>
                      </center></td>
                  <td><center><a href="https://github.com/kristenchan/Python-Data-Analysis/blob/master/Class_2.ipynb">
-                               <img src="https://drive.google.com/open?id=0B05En15qeUozTm0yMGV3LTdIcnc" height="35" width="35">
+                               <img src="py.svg" height="35" width="35">
                              </a>
                      </center></td>
                  <td align="center">作業資料在課程範例中 </td>
              </tr>
              <tr><td align="right" valign="center">Class 3 (4/7)</td>
                  <td><center><a href="https://drive.google.com/open?id=0B05En15qeUozek5XR2JmcVp6RGs">
-                               <img src="https://drive.google.com/open?id=0B05En15qeUozVEFCdTN1MjE0cW8" height="35" width="35">
+                               <img src="pdf.svg" height="35" width="35">
                              </a>
                      </center></td>
                  <td><center><a href="https://github.com/kristenchan/Python-Data-Analysis/blob/master/Class_3.ipynb">
-                               <img src="https://drive.google.com/open?id=0B05En15qeUozTm0yMGV3LTdIcnc" height="35" width="35">
+                               <img src="py.svg" height="35" width="35">
                              </a>
                      </center></td>
                  <td align="center" valign="center">&nbsp;</td>
@@ -72,11 +72,11 @@
              <tr>
                  <td align="right" valign="center">Class 4 (4/28)</td>
                  <td><center><a href="https://drive.google.com/open?id=0B05En15qeUozdmVlaWlpNm8xalU">
-                               <img src="https://drive.google.com/open?id=0B05En15qeUozVEFCdTN1MjE0cW8" height="35" width="35">
+                               <img src="pdf.svg" height="35" width="35">
                              </a>
                      </center></td>
                  <td><center><a href="https://github.com/kristenchan/Python-Data-Analysis/blob/master/Class_4.ipynb">
-                               <img src="https://drive.google.com/open?id=0B05En15qeUozTm0yMGV3LTdIcnc" height="35" width="35">
+                               <img src="py.svg" height="35" width="35">
                              </a>
                      </center></td>
                  <td align="center" valign="center">&nbsp;</td>
@@ -84,11 +84,11 @@
              <tr>
                  <td align="right" valign="center">Class 5 (5/5)</td>
                  <td><center><a href="https://drive.google.com/open?id=0B05En15qeUozaHNFRDM3WXdaZ2M">
-                               <img src="https://drive.google.com/open?id=0B05En15qeUozVEFCdTN1MjE0cW8" height="35" width="35">
+                               <img src="pdf.svg" height="35" width="35">
                              </a>
                      </center></td>
                  <td><center><a href="https://github.com/kristenchan/Python-Data-Analysis/blob/master/Class_5.ipynb">
-                               <img src="https://drive.google.com/open?id=0B05En15qeUozTm0yMGV3LTdIcnc" height="35" width="35">
+                               <img src="py.svg" height="35" width="35">
                              </a>
                      </center></td>
                  <td align="center" valign="center">&nbsp;</td>
