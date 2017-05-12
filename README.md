@@ -94,9 +94,15 @@
                  <td align="center" valign="center">&nbsp;</td>
              </tr>
              <tr>
-                 <td align="right" valign="center">Class 6 (5/12)</td>
-                 <td align="center" valign="center">&nbsp;</td>
-                 <td align="center" valign="center">&nbsp;</td>
+                 <td align="right" valign="center">Class 6 (5/12)</td>
+                 <td><center><a href="https://drive.google.com/open?id=0B05En15qeUozN0pQMWRxQUw2RGc">
+                               <img src="pdf.svg" height="35" width="35">
+                             </a>
+                     </center></td>
+                 <td><center><a href="https://github.com/kristenchan/Python-Data-Analysis/blob/master/Class_6.ipynb">
+                               <img src="py.svg" height="35" width="35">
+                             </a>
+                     </center></td>
                  <td align="center" valign="center">&nbsp;</td>
              </tr>
              <tr>
