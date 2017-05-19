@@ -107,8 +107,14 @@
              </tr>
              <tr>
                  <td align="right" valign="center">Class 7 (5/19)</td>
-                 <td align="center" valign="center">&nbsp;</td>
-                 <td align="center" valign="center">&nbsp;</td>
+                 <td><center><a href="https://drive.google.com/open?id=0B05En15qeUozb29XT0RRQkE3dFE">
+                               <img src="pdf.svg" height="35" width="35">
+                             </a>
+                     </center></td>
+                 <td><center><a href="https://github.com/kristenchan/Python-Data-Analysis/blob/master/Class_7.ipynb">
+                               <img src="py.svg" height="35" width="35">
+                             </a>
+                     </center></td>
                  <td align="center" valign="center">&nbsp;</td>
              </tr>
              <tr>
