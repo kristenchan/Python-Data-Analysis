@@ -34,7 +34,7 @@
              <tr><td valign="center"><center>日   期</center></td>
                  <td valign="center"><center>講   義</center></td>
                  <td valign="center"><center>課堂範例</center></td>
-                 <td valign="center"><center>作業解答</center></td>
+                 <td valign="center"><center>課堂及作業解答</center></td>
              </tr>
              <tr><td align="right" valign="center">Class 1 (3/17)</td>
                  <td><center><a href="https://drive.google.com/file/d/0B05En15qeUozUmk2NTloN2R0TjA/view?usp=sharing">
