@@ -1,0 +1,306 @@
+#===========================================================
+# Kaggle Titanic
+#===========================================================
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+%matplotlib inline
+import seaborn as sns
+
+#-----------------------------------------------------------
+# 匯入資料： train.csv
+#-----------------------------------------------------------
+Train_titanic = pd.read_csv('train.csv')
+
+#----- Exploratory Data Analysis -----
+Train_titanic.shape
+
+Train_titanic.dtypes
+
+Train_titanic.head()
+
+Train_titanic.isnull().sum()
+
+Train_titanic.describe()
+
+#-----------------------------------------------------------
+# Choose Data 
+#-----------------------------------------------------------
+#----- X y -----
+X = Train_titanic[['Pclass','Sex','Parch','Fare']]
+X['Sex'] = X['Sex'].apply(lambda Sex:1 if Sex=="male" else 0)
+y = Train_titanic['Survived']
+
+#-----------------------------------------------------------
+# Train data ＆ Test data 
+#-----------------------------------------------------------
+from sklearn.model_selection import train_test_split
+
+X_train, X_test, y_train, y_test = train_test_split(X , y , test_size = 0.3, random_state = 0)
+
+#-----------------------------------------------------------
+# Logistic Regression
+#-----------------------------------------------------------
+#----- Model(Logistic Regression) Import module -----
+from sklearn.linear_model import LogisticRegression
+
+#----- Model(Logistic Regression) Use Logistic Regression -----
+logit = LogisticRegression()
+
+#----- Model(Logistic Regression) Training Data -----
+logit.fit( X_train, y_train )
+
+#----- Model(Logistic Regression) Predict -----
+y_logit_predict = logit.predict(X_test)
+pd.DataFrame( list(zip(y_test,y_logit_predict)), columns=['Measured','Predicted'] )
+
+#----- Model(Logistic Regression) Accuracy -----
+from sklearn.metrics import accuracy_score
+print('Accuracy:',accuracy_score(y_test, y_logit_predict))
+
+#-----------------------------------------------------------
+# 用在 test.csv 上 ， 並且 submit 
+#-----------------------------------------------------------
+
+Test_titanic = pd.read_csv('test.csv')
+
+new_X = Test_titanic[['Pclass','Sex','Parch','Fare']]
+new_X['Sex'] = new_X['Sex'].apply(lambda Sex:1 if Sex=="male" else 0)
+
+new_X.head()
+
+new_X.isnull().sum()
+
+all_Fare = X['Fare'].append(new_X['Fare'])
+Fare_mean = all_Fare.mean()
+new_X["Fare"] = new_X["Fare"].fillna(Fare_mean)
+
+new_X.isnull().sum()
+
+y_submit = logit.predict(new_X)
+
+final_dict = {
+    "PassengerId": Test_titanic["PassengerId"],
+    "Survived": y_submit
+}
+final = pd.DataFrame(final_dict)
+
+final.to_csv("final.csv", index = False)
+
+
+
+#===========================================================
+# Class 8
+#===========================================================
+import pandas as pd
+import requests
+import numpy as np
+import matplotlib.pyplot as plt
+%matplotlib inline
+import seaborn as sns
+
+#-----------------------------------------------------------
+# Import Data
+#-----------------------------------------------------------
+#----- Import Scikit-Learn 的 Datasets  -----
+from sklearn import datasets
+
+#----- Dataset iris -----
+iris = datasets.load_iris()
+
+iris_df = pd.DataFrame( iris.data )
+iris_df.columns = iris.feature_names
+iris_df['species'] = iris.target_names[iris.target]
+
+X = iris_df.ix[:, ['petal length (cm)','petal width (cm)']]
+y = iris.target
+
+np.set_printoptions(precision = 5, suppress = True)
+print("Mean : ",X.values.mean(axis=0))
+print("Std : ",X.values.std(axis=0))
+print("Max : ",X.values.max(axis=0))
+print("Min : ",X.values.min(axis=0))
+
+
+#-----------------------------------------------------------
+# Preprocessing 
+#-----------------------------------------------------------
+from sklearn import preprocessing
+
+#----- Min Max -----
+minmax = preprocessing.MinMaxScaler()
+minmax.fit(X)
+X_m = minmax.transform(X)
+
+#----- Train data ＆ Test data  -----
+from sklearn.model_selection import train_test_split  #from sklearn.cross_validation import train_test_split
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.3, random_state = 0)
+
+#-----------------------------------------------------------
+# K Means
+#-----------------------------------------------------------
+#----- Model(K Means) Import module -----
+from sklearn.cluster import KMeans
+
+#----- Model(K Means) Use KMeans -----
+kmeans = KMeans(n_clusters = 3)
+
+kmeans_fit = kmeans.fit( X )
+
+#----- Model(K Means) Result -----
+kmeans_result = kmeans_fit.labels_
+pd.DataFrame( list(zip(iris.target_names[y],
+                       iris.target_names[kmeans_result])), columns=['Original','Cluster'] )
+
+#----- Model(K Means) Silhouette -----
+from sklearn.metrics import silhouette_score
+print('Silhouette:',silhouette_score(X, kmeans_result))
+
+#-----------------------------------------------------------
+# Hierarchical Clustering 
+#-----------------------------------------------------------
+#----- Model(Hierarchical Clustering) Import module -----
+from sklearn.cluster import AgglomerativeClustering
+
+#----- Model(Hierarchical Clustering) Use AgglomerativeClustering -----
+hierarchical = AgglomerativeClustering(linkage = 'ward', affinity = 'euclidean', n_clusters = 3)
+hierarchical_fit = hierarchical.fit( X )
+
+#----- Model(Hierarchical Clustering) Result -----
+hierarchical_result = hierarchical_fit.labels_
+pd.DataFrame( list(zip(iris.target_names[y],
+                       iris.target_names[hierarchical_result])), columns=['Measured','Predicted'] )
+
+#----- Model(Hierarchical Clustering) Silhouette -----
+from sklearn.metrics import silhouette_score
+print('Silhouette:',silhouette_score(X, hierarchical_result))
+
+
+#-----------------------------------------------------------
+# Facebook API
+#-----------------------------------------------------------
+token = ''
+
+res = requests.get('https://graph.facebook.com/dlab.taiwan/posts?&access_token='+ token)
+
+print(res.text)
+
+print(res.json()['data'])
+
+
+all_post_list = []
+i = 1
+while 'paging' in res.json(): 
+    for post in res.json()['data']:
+        if 'message' in post:
+            all_post_list.append([i,post['message']])  
+            i += 1
+    res = requests.get(res.json()['paging']['next'])  
+
+print(all_post_list)
+
+#-----------------------------------------------------------
+# 利用 Jieba 斷詞
+#-----------------------------------------------------------
+#-----------------------------------------------------------
+# Example(簡體中文) 
+#-----------------------------------------------------------
+#----- Jieba Import module -----
+import jieba
+
+#----- Example Three Different Mode -----
+cut_word = jieba.cut("小明硕士毕业于北京清华大学", cut_all=False)
+cut_word_full = jieba.cut("小明硕士毕业于北京清华大学", cut_all=True)
+cut_word_search = jieba.cut_for_search("小明硕士毕业于北京清华大学")
+
+print("Default Mode: " + "/ ".join(cut_word))  
+print("Full Mode: " + "/ ".join(cut_word_full))  
+print("Search Mode: " + "/ ".join(cut_word_search))  
+
+#-----------------------------------------------------------
+# Example(繁體中文)  
+#-----------------------------------------------------------
+#----- Our case -----
+cut_word = jieba.cut("時間靜止31年，還記得車諾比事件嗎")
+print("/ ".join(cut_word))  
+
+#-----------------------------------------------------------
+# 使用繁體詞庫 
+#-----------------------------------------------------------
+#----- 匯入繁體詞庫 -----
+jieba.set_dictionary('dict.txt.big')
+
+cut_word = jieba.cut("時間靜止31年，還記得車諾比事件嗎")
+print("/ ".join(cut_word))  
+
+#-----------------------------------------------------------
+# 使用自己定義的詞庫
+#-----------------------------------------------------------
+#----- 匯入自己定義的詞庫 -----
+jieba.load_userdict("mydict.txt")
+
+cut_word = jieba.cut("時間靜止31年，還記得車諾比事件嗎")
+print("/ ".join(cut_word)) 
+
+#-----------------------------------------------------------
+# 剔除停止詞
+#-----------------------------------------------------------
+#----- 匯入停止詞 -----
+with open('stop_words.txt') as f:
+    stopwords = f.read().splitlines() 
+
+stopwords.append("\n")
+
+#----- Example1 剔除停止詞 -----
+cut_word = jieba.cut("時間靜止31年，還記得車諾比事件嗎")
+print("/ ".join([word for word in cut_word if word not in stopwords]))
+
+#----- Example2 -----
+cut_word = jieba.cut(all_post_list[0][1])
+print(" ".join(cut_word)) 
+
+#----- Example2 剔除停止詞 -----
+cut_word = jieba.cut(all_post_list[0][1])
+print(" ".join([word for word in cut_word if word not in stopwords])) 
+
+
+#-----------------------------------------------------------
+# 處理粉絲頁 post 資料
+#-----------------------------------------------------------
+#----- 將每個post斷詞 -----
+cut_post = []
+for post_i in all_post_list:
+    temp_cut = jieba.cut(post_i[1])
+    cut_post.append(" ".join([word for word in temp_cut if word not in stopwords]))
+
+cut_post[0]    
+
+
+#-----------------------------------------------------------
+# 利用 TF-IDF 找出文件關鍵詞
+#-----------------------------------------------------------
+#----- TF-IDF Import module -----
+from sklearn import feature_extraction
+from sklearn.feature_extraction.text import TfidfVectorizer
+
+#----- 找出每個post 關鍵詞 -----
+vectorizer = TfidfVectorizer()
+tfidf = vectorizer.fit_transform(cut_post)
+
+tfidf.shape
+
+#----- 找出每個post >0.2的關鍵詞 -----
+words = vectorizer.get_feature_names()
+for i in range(len(cut_post)):
+    print ("======== Post {0} ========".format(i+1))
+    for j in range(len(words)):
+        if tfidf[i,j] > 0.2:
+            print (words[j], tfidf[i,j])
+
+#----- 找出每個post 前五重要的關鍵詞 -----
+words = vectorizer.get_feature_names()
+for i in range(len(cut_post)):
+    print ("======== Post {0} ========".format(i+1))
+    temp_array = tfidf[i,:].toarray()
+    for l in temp_array:
+        print ([(words[x],l[x]) for x in (l*-1).argsort()][:5])
