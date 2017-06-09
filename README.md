@@ -125,8 +125,14 @@
              </tr>
              <tr>
                  <td align="right" valign="center">Class 8 (6/2)</td>
-                 <td align="center" valign="center">&nbsp;</td>
-                 <td align="center" valign="center">&nbsp;</td>
+                 <td><center><a href="https://drive.google.com/open?id=0B05En15qeUozTmQwTTdITTN1c2M">
+                               <img src="https://image.flaticon.com/icons/svg/337/337946.svg" height="35" width="35">
+                             </a>
+                     </center></td>
+                 <td><center><a href="https://github.com/kristenchan/Python-Data-Analysis/blob/master/class8.txt">
+                               <img src="https://image.flaticon.com/icons/svg/136/136538.svg" height="35" width="35">
+                             </a>
+                     </center></td>
                  <td align="center" valign="center">&nbsp;</td>
              </tr>
      </table></center>
