@@ -20,122 +20,20 @@
 </p>  
 <hr size="1">
 <br>
-<p>
-     <h3><b>作業繳交狀況</b></h3>
-     <a href="https://docs.google.com/spreadsheets/d/1Zq9HJZI_LEQux1PGNxZnjWNkFkI1w3I7O7Vkx_gB1hM/edit#gid=0">
-          <img src="https://image.flaticon.com/icons/svg/265/265706.svg" height="35" width="35">
-     </a>
-     
-</p>
 <br>
 <p>
      <h3><b>課程講義</b></h3>    
-     <center><table style="table-layout:fixed">
-             <tr><td valign="center"><center>日   期</center></td>
-                 <td valign="center"><center>講   義</center></td>
-                 <td valign="center"><center>課堂範例</center></td>
-                 <td valign="center"><center>課堂及作業解答</center></td>
-             </tr>
-             <tr><td align="right" valign="center">Class 1 (3/17)</td>
-                 <td><center><a href="https://drive.google.com/file/d/0B05En15qeUozUmk2NTloN2R0TjA/view?usp=sharing">
-                               <img src="https://image.flaticon.com/icons/svg/337/337946.svg" height="35" width="35">
-                             </a>
-                     </center></td>
-                 <td><center><a href="https://github.com/kristenchan/Python-Data-Analysis/blob/master/Class_1.ipynb">
-                               <img src="https://image.flaticon.com/icons/svg/180/180867.svg" height="35" width="35">
-                             </a>
-                     </center></td>
-                 <td>&nbsp;</td>
-             </tr>
-             <tr><td align="right" valign="center">Class 2 (3/24)</td>
-                 <td><center><a href="https://drive.google.com/open?id=0B05En15qeUozSFpWNjN2RE1VODQ">
-                               <img src="https://image.flaticon.com/icons/svg/337/337946.svg" height="35" width="35">
-                             </a>
-                     </center></td>
-                 <td><center><a href="https://github.com/kristenchan/Python-Data-Analysis/blob/master/Class_2.ipynb">
-                               <img src="https://image.flaticon.com/icons/svg/180/180867.svg" height="35" width="35">
-                             </a>
-                     </center></td>
-                 <td align="center">作業資料在課程範例中 </td>
-             </tr>
-             <tr><td align="right" valign="center">Class 3 (4/7)</td>
-                 <td><center><a href="https://drive.google.com/open?id=0B05En15qeUozek5XR2JmcVp6RGs">
-                               <img src="https://image.flaticon.com/icons/svg/337/337946.svg" height="35" width="35">
-                             </a>
-                     </center></td>
-                 <td><center><a href="https://github.com/kristenchan/Python-Data-Analysis/blob/master/Class_3.ipynb">
-                               <img src="https://image.flaticon.com/icons/svg/180/180867.svg" height="35" width="35">
-                             </a>
-                     </center></td>
-                 <td align="center" valign="center">&nbsp;</td>
-             </tr>
-             <tr>
-                 <td align="right" valign="center">Class 4 (4/28)</td>
-                 <td><center><a href="https://drive.google.com/open?id=0B05En15qeUozdmVlaWlpNm8xalU">
-                               <img src="https://image.flaticon.com/icons/svg/337/337946.svg" height="35" width="35">
-                             </a>
-                     </center></td>
-                 <td><center><a href="https://github.com/kristenchan/Python-Data-Analysis/blob/master/Class_4.ipynb">
-                               <img src="https://image.flaticon.com/icons/svg/180/180867.svg" height="35" width="35">
-                             </a>
-                     </center></td>
-                 <td align="center" valign="center">&nbsp;</td>
-             </tr>
-             <tr>
-                 <td align="right" valign="center">Class 5 (5/5)</td>
-                 <td><center><a href="https://drive.google.com/open?id=0B05En15qeUozaHNFRDM3WXdaZ2M">
-                               <img src="https://image.flaticon.com/icons/svg/337/337946.svg" height="35" width="35">
-                             </a>
-                     </center></td>
-                 <td><center><a href="https://github.com/kristenchan/Python-Data-Analysis/blob/master/Class_5.ipynb">
-                               <img src="https://image.flaticon.com/icons/svg/180/180867.svg" height="35" width="35">
-                             </a>
-                     </center></td>
-                 <td align="center" valign="center">&nbsp;</td>
-             </tr>
-             <tr>
-                 <td align="right" valign="center">Class 6 (5/12)</td>
-                 <td><center><a href="https://drive.google.com/open?id=0B05En15qeUozN0pQMWRxQUw2RGc">
-                               <img src="https://image.flaticon.com/icons/svg/337/337946.svg" height="35" width="35">
-                             </a>
-                     </center></td>
-                 <td><center><a href="https://github.com/kristenchan/Python-Data-Analysis/blob/master/Class_6.ipynb">
-                               <img src="https://image.flaticon.com/icons/svg/180/180867.svg" height="35" width="35">
-                             </a>
-                     </center></td>
-                 <td><center><a href="https://github.com/kristenchan/Python-Data-Analysis/blob/master/Class_6_new.ipynb">
-                               <img src="https://image.flaticon.com/icons/svg/402/402219.svg" height="35" width="35">
-                             </a>
-                     </center></td>
-             </tr>
-             <tr>
-                 <td align="right" valign="center">Class 7 (5/19)</td>
-                 <td><center><a href="https://drive.google.com/open?id=0B05En15qeUozb29XT0RRQkE3dFE">
-                               <img src="https://image.flaticon.com/icons/svg/337/337946.svg" height="35" width="35">
-                             </a>
-                     </center></td>
-                 <td><center><a href="https://github.com/kristenchan/Python-Data-Analysis/blob/master/Class_7.ipynb">
-                               <img src="https://image.flaticon.com/icons/svg/180/180867.svg" height="35" width="35">
-                             </a>
-                     </center></td>
-                 <td><center><a href="https://github.com/kristenchan/Python-Data-Analysis/blob/master/Class_7_new.ipynb">
-                               <img src="https://image.flaticon.com/icons/svg/402/402219.svg" height="35" width="35">
-                             </a>
-                     </center></td>
-             </tr>
-             <tr>
-                 <td align="right" valign="center">Class 8 (6/2)</td>
-                 <td><center><a href="https://drive.google.com/open?id=0B05En15qeUozTmQwTTdITTN1c2M">
-                               <img src="https://image.flaticon.com/icons/svg/337/337946.svg" height="35" width="35">
-                             </a>
-                     </center></td>
-                 <td><center><a href="https://github.com/kristenchan/Python-Data-Analysis/blob/master/class8.txt">
-                               <img src="https://image.flaticon.com/icons/svg/136/136538.svg" height="35" width="35">
-                             </a>
-                     </center></td>
-                 <td align="center" valign="center">&nbsp;</td>
-             </tr>
-     </table></center>
+        + <a href="https://kristenchan.github.io/Python-Data-Analysis/py_dataanalysis_ch0.slides.html">Ch. 0 Introduction</a>
+        + <a href="https://kristenchan.github.io/Python-Data-Analysis/py_dataanalysis_ch1.slides.html">Ch. 1 Basic</a>
+        + <a href="https://kristenchan.github.io/Python-Data-Analysis/py_dataanalysis_ch2.slides.html">Ch. 2 Numpy PartI </a>
+        + <a href="https://kristenchan.github.io/Python-Data-Analysis/py_dataanalysis_ch3.slides.html">Ch. 3 Loop & Conditional judgment</a>
+        + <a href="https://kristenchan.github.io/Python-Data-Analysis/py_dataanalysis_ch4.slides.html">Ch. 4 Function</a>
+        + <a href="https://kristenchan.github.io/Python-Data-Analysis/py_dataanalysis_ch5.slides.html">Ch. 5 Modules, Classes, and Objects</a>
+        + <a href="https://kristenchan.github.io/Python-Data-Analysis/py_dataanalysis_ch6.slides.html">Ch. 6 Numpy PartII</a>
+        + <a href="https://kristenchan.github.io/Python-Data-Analysis/py_dataanalysis_ch7.slides.html">Ch. 7 Pandas</a>
+        + <a href="https://kristenchan.github.io/Python-Data-Analysis/py_dataanalysis_ch8.slides.html">Ch. 8 Matplotlib & Seaborn</a>
+        + <a href="https://kristenchan.github.io/Python-Data-Analysis/py_dataanalysis_ch9.slides.html">Ch. 9 Scikit-Learn</a>
+        + <a href="https://kristenchan.github.io/Python_Data-Analysis/py_dataanalysis_ch10.slides.html">Ch. 10 Text Mining</a>
 </p>
 <p>
 <h3>R Ladies Taipei 網站</h3>
