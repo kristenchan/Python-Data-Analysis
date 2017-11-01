@@ -34,7 +34,7 @@
           <li><a href="https://kristenchan.github.io/Python-Data-Analysis/py_dataanalysis_ch7.slides.html">Ch. 7 Pandas</a></li>
           <li><a href="https://kristenchan.github.io/Python-Data-Analysis/py_dataanalysis_ch8.slides.html">Ch. 8 Matplotlib & Seaborn</a></li>
           <li><a href="https://kristenchan.github.io/Python-Data-Analysis/py_dataanalysis_ch9.slides.html">Ch. 9 Scikit-Learn</a></li>
-          <li><a href="https://kristenchan.github.io/Python_Data-Analysis/py_dataanalysis_ch10.slides.html">Ch. 10 Text Mining</a></li>
+          <li><a href="https://kristenchan.github.io/Python-Data-Analysis/py_dataanalysis_ch10.slides.html">Ch. 10 Text Mining</a></li>
     </ul>
 </p>
 <p>
