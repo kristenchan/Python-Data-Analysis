@@ -22,18 +22,20 @@
 <br>
 <br>
 <p>
-<h3><b>課程講義</b></h3>    
-+ <a href="https://kristenchan.github.io/Python-Data-Analysis/py_dataanalysis_ch0.slides.html">Ch. 0 Introduction</a>
-+ <a href="https://kristenchan.github.io/Python-Data-Analysis/py_dataanalysis_ch1.slides.html">Ch. 1 Basic</a>
-+ <a href="https://kristenchan.github.io/Python-Data-Analysis/py_dataanalysis_ch2.slides.html">Ch. 2 Numpy PartI </a>
-+ <a href="https://kristenchan.github.io/Python-Data-Analysis/py_dataanalysis_ch3.slides.html">Ch. 3 Loop & Conditional judgment</a>
-+ <a href="https://kristenchan.github.io/Python-Data-Analysis/py_dataanalysis_ch4.slides.html">Ch. 4 Function</a>
-+ <a href="https://kristenchan.github.io/Python-Data-Analysis/py_dataanalysis_ch5.slides.html">Ch. 5 Modules, Classes, and Objects</a>
-+ <a href="https://kristenchan.github.io/Python-Data-Analysis/py_dataanalysis_ch6.slides.html">Ch. 6 Numpy PartII</a>
-+ <a href="https://kristenchan.github.io/Python-Data-Analysis/py_dataanalysis_ch7.slides.html">Ch. 7 Pandas</a>
-+ <a href="https://kristenchan.github.io/Python-Data-Analysis/py_dataanalysis_ch8.slides.html">Ch. 8 Matplotlib & Seaborn</a>
-+ <a href="https://kristenchan.github.io/Python-Data-Analysis/py_dataanalysis_ch9.slides.html">Ch. 9 Scikit-Learn</a>
-+ <a href="https://kristenchan.github.io/Python_Data-Analysis/py_dataanalysis_ch10.slides.html">Ch. 10 Text Mining</a>
+    <h3><b>課程講義</b></h3>
+    <ul class="task-list">
+          <li><a href="https://kristenchan.github.io/Python-Data-Analysis/py_dataanalysis_ch0.slides.html">Ch. 0 Introduction</a></li>
+          <li><a href="https://kristenchan.github.io/Python-Data-Analysis/py_dataanalysis_ch1.slides.html">Ch. 1 Basic</a></li>
+          <li><a href="https://kristenchan.github.io/Python-Data-Analysis/py_dataanalysis_ch2.slides.html">Ch. 2 Numpy PartI </a></li>
+          <li><a href="https://kristenchan.github.io/Python-Data-Analysis/py_dataanalysis_ch3.slides.html">Ch. 3 Loop & Conditional judgment</a></li>
+          <li><a href="https://kristenchan.github.io/Python-Data-Analysis/py_dataanalysis_ch4.slides.html">Ch. 4 Function</a></li>
+          <li><a href="https://kristenchan.github.io/Python-Data-Analysis/py_dataanalysis_ch5.slides.html">Ch. 5 Modules, Classes, and Objects</a></li>
+          <li><a href="https://kristenchan.github.io/Python-Data-Analysis/py_dataanalysis_ch6.slides.html">Ch. 6 Numpy PartII</a></li>
+          <li><a href="https://kristenchan.github.io/Python-Data-Analysis/py_dataanalysis_ch7.slides.html">Ch. 7 Pandas</a></li>
+          <li><a href="https://kristenchan.github.io/Python-Data-Analysis/py_dataanalysis_ch8.slides.html">Ch. 8 Matplotlib & Seaborn</a></li>
+          <li><a href="https://kristenchan.github.io/Python-Data-Analysis/py_dataanalysis_ch9.slides.html">Ch. 9 Scikit-Learn</a></li>
+          <li><a href="https://kristenchan.github.io/Python_Data-Analysis/py_dataanalysis_ch10.slides.html">Ch. 10 Text Mining</a></li>
+    </ul>
 </p>
 <p>
 <h3>R Ladies Taipei 網站</h3>
